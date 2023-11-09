@@ -1,2 +1,2 @@
 # React-todo
-to do list using react and material ui
+to do list using next js and material ui
